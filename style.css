@@ -69,10 +69,12 @@ footer {
     width:100%;
     display:none;
     display:block;
+    margin:40px;
   }
 
   .step-box {
     width:90%;
+    margin-bottom:20px;
   }
 
 
